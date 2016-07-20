@@ -16,4 +16,4 @@ def try_number(test_number):
 print("Can you guess the number I'm thinking of?")
 print(try_number(input()))
 
-
+#Funkar detta?
