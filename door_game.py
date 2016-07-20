@@ -16,3 +16,4 @@ def try_door(test_door):
 print("\n Door 1: fizz \n Door 2: foo \n Door 3: bar \n Choose one:")
 print(try_door(input()))
 
+## NOT WORKING!!!!
