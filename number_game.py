@@ -17,4 +17,3 @@ print("Can you guess the number I'm thinking of?")
 print(try_number(input()))
 
 
-#git test 1st change
